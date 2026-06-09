@@ -10,7 +10,7 @@ const ME = {
   email: "rajtank4457@gmail.com",
   phone: "+91 75678 00491",
   github: "https://github.com/rajtank4457",
-  linkedin: "https://www.linkedin.com/in/rajtank4457",
+  linkedin: "https://www.linkedin.com/in/raj-tank-52501b265/",
   summary: "Final-year M.Sc. Blockchain student at MIT-WPU. 4 months shipping a live multi-vendor eCommerce platform at PM Communications. I build with React, Next.js, Solidity — whatever the problem needs.",
 };
 
